@@ -1,8 +1,9 @@
-# intranet-backend
+# backend
+User facing backend of the project.
 
-## Prerequisites
-
-For sequelize migrations to create database tables.
+Built on:
+Node js
+PostgreSQL
 
 ### `npm install `
 
