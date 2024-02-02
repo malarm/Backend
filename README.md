@@ -2,7 +2,7 @@
 User facing backend of the project.
 
 Built on:
-Node js
+Node js,
 PostgreSQL
 
 ### `npm install `
